@@ -1,0 +1,14 @@
+
+blog/migrations/
+blog/static/
+
+media/
+
+shop/migrations/
+shop/static/
+
+*.mp4
+*.txt
+*.wav
+*.jpg
+*.png
