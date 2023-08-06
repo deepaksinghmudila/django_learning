@@ -2,7 +2,7 @@
 blog/migrations/
 blog/static/
 
-media/
+mac/media/
 
 shop/migrations/
 shop/static/
