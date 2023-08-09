@@ -1,11 +1,14 @@
 
-blog/migrations/
-blog/static/
+mac/blog/migrations/
+mac/blog/static/
 
 mac/media/
 
-shop/migrations/
-shop/static/
+mac/shop/migrations/
+mac/shop/static/
+
+/*.env
+/*.json
 
 *.mp4
 *.txt
